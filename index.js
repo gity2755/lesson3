@@ -1,3 +1,3 @@
 console.log("fooooooooooooo");
 console.log("lesson4");
-let x=5
+let x=10
